@@ -1,25 +1,13 @@
 # /now
-[Rise of the Robots: Technology and the Threat of a Jobless Future Paperback](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537)
-July 12, 2016  
-Martin Ford
-Hachette Book Group
+[Rise of the Robots: Technology and the Threat of a Jobless Future Paperback](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537)  
+Martin Ford; July 12, 2016; Hachette Book Group
 
 # /books
-[Beyond the Valley: How Innovators around the World are Overcoming Inequality and Creating the Technologies of Tomorrow](https://www.amazon.com/Beyond-Valley-Innovators-Overcoming-Technologies/dp/0262043130/)
+[Beyond the Valley: How Innovators around the World are Overcoming Inequality and Creating the Technologies of Tomorrow](https://www.amazon.com/Beyond-Valley-Innovators-Overcoming-Technologies/dp/0262043130/)  
+Ramesh Srinivasan; October 29, 2019; The MIT Press
 
-October 29, 2019
-
-Ramesh Srinivasan
-
-The MIT Press
-
-[Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter](https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/0190863846)
-
-November 1, 2019
-
-Charlton D. McIlwain
-
-Oxford University Press
+[Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter](https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/0190863846)  
+Charlton D. McIlwain; November 1, 2019; Oxford University Press
 
 # /productivity
 
