@@ -23,6 +23,6 @@ Charlton D. McIlwain; November 1, 2019; Oxford University Press
 [Spark with Nora Young](https://www.cbc.ca/radio/spark)
 
 # /trade
-[Hacker News](https://news.ycombinator.com/) To understand Hacker News, read [this New Yorker piece](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news.
+[Hacker News](https://news.ycombinator.com/) To understand Hacker News, read [this New Yorker piece](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news).
 
 _Inspired by Tom Critchlow's [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)_
