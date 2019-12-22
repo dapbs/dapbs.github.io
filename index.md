@@ -1,6 +1,6 @@
 # /now
 [Rise of the Robots: Technology and the Threat of a Jobless Future Paperback](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537)  
-Martin Ford; July 12, 2016; Hachette Book Group
+[Martin](rise-of-the-robots.md) Ford; July 12, 2016; Hachette Book Group
 
 # /books
 [Beyond the Valley: How Innovators around the World are Overcoming Inequality and Creating the Technologies of Tomorrow](https://www.amazon.com/Beyond-Valley-Innovators-Overcoming-Technologies/dp/0262043130/)  
