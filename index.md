@@ -1,6 +1,6 @@
 # /now
 [Rise of the Robots: Technology and the Threat of a Jobless Future Paperback](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537)
-July 12, 2016
+July 12, 2016  
 Martin Ford
 Hachette Book Group
 
