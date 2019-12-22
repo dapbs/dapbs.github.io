@@ -9,6 +9,10 @@ Ramesh Srinivasan; October 29, 2019; The MIT Press
 [Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter](https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/0190863846)  
 Charlton D. McIlwain; November 1, 2019; Oxford University Press
 
+[FT & McKinsey Business Book of the Year](https://www.ft.com/bookaward)
+
+[Amazon Best business and leadership books](https://www.amazon.com/b/?node=17296226011)
+
 # /productivity
 
 [Library Extension for Google Chrome](https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec)
