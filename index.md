@@ -1,5 +1,5 @@
 # /now
-Rise of the Robots: Technology and the Threat of a Jobless Future Paperback [[Summary]](rise-of-the-robots.md)  
+Rise of the Robots: Technology and the Threat of a Jobless Future Paperback [[Summary](rise-of-the-robots.md)]  
 Martin Ford; July 12, 2016; Hachette Book Group
 
 # /books
