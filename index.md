@@ -11,7 +11,7 @@ Charlton D. McIlwain; November 1, 2019; Oxford University Press
 
 # /productivity
 
-[Library Extension](https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec)
+[Library Extension for Google Chrome](https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec)
 
 [Roll your own search engine on the Google Chrome omnibox](https://support.google.com/chrome/answer/95426?co=GENIE.Platform%3DDesktop&hl=en)
 
