@@ -4,7 +4,7 @@ July 12, 2016
 Martin Ford
 Hachette Book Group
 
-#/books
+# /books
 [Beyond the Valley: How Innovators around the World are Overcoming Inequality and Creating the Technologies of Tomorrow](https://www.amazon.com/Beyond-Valley-Innovators-Overcoming-Technologies/dp/0262043130/)
 
 October 29, 2019
@@ -21,11 +21,11 @@ Charlton D. McIlwain
 
 Oxford University Press
 
-#/productivity
+# /productivity
 
 [Library Extension](https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec)
 
 [Roll your own search engine on the Google Chrome omnibox](https://support.google.com/chrome/answer/95426?co=GENIE.Platform%3DDesktop&hl=en)
 
-#/podcasts
+# /podcasts
 [Spark with Nora Young](https://www.cbc.ca/radio/spark)
