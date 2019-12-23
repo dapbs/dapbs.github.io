@@ -25,7 +25,16 @@ Charlton D. McIlwain; November 1, 2019; Oxford University Press
 # /trade
 [Hacker News](https://news.ycombinator.com/) To understand Hacker News, read [this New Yorker piece](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news).
 
+## /trade/nlp
 [Patrick Harrison: Modern NLP in Python | PyData DC 2016](https://www.youtube.com/watch?v=6zm9NC9uRkk)
+
+[Jason Kessler - Using Scattertext and the Python NLP Ecosystem for Text Visualization | PyData Seattle 2017](https://www.youtube.com/watch?v=H7X9CA2pWKo)
+* https://github.com/JasonKessler/scattertext
+
+
+https://github.com/shusenl/nlpvis
+
+https://github.com/cpsievert/LDAvis
 
 # 
 
