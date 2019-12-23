@@ -37,6 +37,7 @@ Charlton D. McIlwain; November 1, 2019; Oxford University Press
 * [Stanford Visualization Group](http://vis.stanford.edu/)
 * [UW Interactive Data Lab](http://idl.cs.washington.edu/)
 ** [Termite: a visual analysis tool for inspecting the output of statistical topic models](https://github.com/uwdata/termite-visualizations)
+* [PyLDAvis: Python library for interactive topic model visualization](https://github.com/bmabey/pyLDAvis)
 
 https://github.com/shusenl/nlpvis
 
