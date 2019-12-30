@@ -58,6 +58,9 @@ https://observablehq.com/
 
 [SPARQL Workshop](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/2016_SPARQL_Workshop)
 
+## /trade/newsletters
+[Mode Analytics Dispatch](https://mode.com/analytics-dispatch/)
+
 # 
 
 _Inspired by Tom Critchlow's [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)_
