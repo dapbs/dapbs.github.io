@@ -47,10 +47,15 @@ https://observablehq.com/
 
 ## /trade/wikidata
 [Introduction](https://towardsdatascience.com/a-brief-introduction-to-wikidata-bb4e66395eb1)
+
 [Another Introduction](https://longair.net/blog/2017/11/29/sparql-wikidata/)
+
 [Sample Query: Company Data](https://w.wiki/Edx)
+
 [Wikimedia SPARQL Reference](https://en.wikibooks.org/wiki/SPARQL)
+
 [Ticker Symbol Lookup](https://stackoverflow.com/questions/48568094/wikidatasparql-lookup-a-company-based-on-its-ticker-symbol)
+
 [SPARQL Workshop](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/2016_SPARQL_Workshop)
 
 # 
