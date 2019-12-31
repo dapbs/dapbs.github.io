@@ -1,4 +1,4 @@
-#Web scraping, file downloads, in Databricks using Python, Selenium, Chrome (headless mode), Chromedriver
+#Web scraping, file downloads in Databricks using Python, Selenium, Chrome (headless mode), Chromedriver
 #References
 #https://forums.databricks.com/questions/15480/how-to-add-webdriver-for-selenium-in-databricks.html
 #https://stackoverflow.com/questions/45631715/downloading-with-chrome-headless-and-selenium
