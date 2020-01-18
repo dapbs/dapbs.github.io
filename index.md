@@ -2,12 +2,16 @@
 Rise of the Robots: Technology and the Threat of a Jobless Future Paperback [[Summary](rise-of-the-robots.md)]  
 Martin Ford; July 12, 2016; Hachette Book Group
 
-# /books
-[Beyond the Valley: How Innovators around the World are Overcoming Inequality and Creating the Technologies of Tomorrow](https://www.amazon.com/Beyond-Valley-Innovators-Overcoming-Technologies/dp/0262043130/)  
+[Beyond the Valley: How Innovators around the World are Overcoming Inequality and Creating the Technologies of Tomorrow](https://www.amazon.com/Beyond-Valley-Innovators-Overcoming-Technologies/dp/0262043130/)  [[Summary](beyond-the-valley.md)]
 Ramesh Srinivasan; October 29, 2019; The MIT Press
+
+# /books
 
 [Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter](https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/0190863846)  
 Charlton D. McIlwain; November 1, 2019; Oxford University Press
+
+[The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power Hardcover](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/)
+Shoshana Zuboff; January 15, 2019); PublicAffairs
 
 [FT & McKinsey Business Book of the Year](https://www.ft.com/bookaward)
 
