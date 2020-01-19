@@ -10,8 +10,11 @@ Ramesh Srinivasan; October 29, 2019; The MIT Press
 [Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter](https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/0190863846)  
 Charlton D. McIlwain; November 1, 2019; Oxford University Press
 
-[The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power Hardcover](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/)
-Shoshana Zuboff; January 15, 2019); PublicAffairs
+[The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/)
+Shoshana Zuboff; January 15, 2019; PublicAffairs
+
+[Who Owns the Future?](https://www.amazon.com/Who-Owns-Future-Jaron-Lanier/dp/1451654979)
+Jaron Lanier; March 4, 2014; Simon & Schuster
 
 [FT & McKinsey Business Book of the Year](https://www.ft.com/bookaward)
 
