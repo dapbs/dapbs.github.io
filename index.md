@@ -68,6 +68,14 @@ https://observablehq.com/
 ## /trade/newsletters
 [Mode Analytics Dispatch](https://mode.com/analytics-dispatch/)
 
+## /trade/data visualization
+Edward Tufte [Website](https://www.edwardtufte.com/tufte/) [Twitter](https://twitter.com/EdwardTufte) [Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
+
+Alberto Cairo [Website](http://albertocairo.com/) [Twitter](https://twitter.com/AlbertoCairo) [Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)
+
+## /trade/presentations
+Nancy Duarte [Website](https://www.duarte.com/) [Twitter](https://twitter.com/nancyduarte) [Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K) [TED](https://www.ted.com/speakers/nancy_duarte)
+
 # 
 
 _Inspired by Tom Critchlow's [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)_
