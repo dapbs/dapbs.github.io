@@ -82,6 +82,8 @@ _The Knight Center has offered online courses since 2003 and began to expand its
 
 https://journalismcourses.org/
 
+- [Data Visualization for Storytelling and Discovery with Alberto Cairo](https://journalismcourses.org/data-viz-course-material.html)
+
 # 
 
 _Inspired by Tom Critchlow's [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)_
