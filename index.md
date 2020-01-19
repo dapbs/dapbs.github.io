@@ -34,6 +34,9 @@ Jaron Lanier; March 4, 2014; Simon & Schuster
 
 [Papers With Code](https://paperswithcode.com/)
 
+[Altmetric Top 100](https://www.altmetric.com/top100/home/)
+_The Altmetric Top 100 is an annual list of the research that most caught the public imagination._
+
 ## /trade/nlp
 [Patrick Harrison: Modern NLP in Python | PyData DC 2016](https://www.youtube.com/watch?v=6zm9NC9uRkk)
 
@@ -71,10 +74,10 @@ https://observablehq.com/
 ## /trade/data visualization
 Edward Tufte [Website](https://www.edwardtufte.com/tufte/) [Twitter](https://twitter.com/EdwardTufte) [Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
 
-Alberto Cairo [Website](http://albertocairo.com/) [Twitter](https://twitter.com/AlbertoCairo) [Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)
-
+Alberto Cairo [[Website](http://albertocairo.com/)] [[Twitter](https://twitter.com/AlbertoCairo)] [[Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)
+]
 ## /trade/presentations
-Nancy Duarte [Website](https://www.duarte.com/) [Twitter](https://twitter.com/nancyduarte) [Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K) [TED](https://www.ted.com/speakers/nancy_duarte)
+Nancy Duarte [[Website](https://www.duarte.com/)] [[Twitter](https://twitter.com/nancyduarte)] [[Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K)] [[TED](https://www.ted.com/speakers/nancy_duarte)]
 
 ## /trade/mooc
 ### University of Texas Knight Center for Journalism in the Americas
