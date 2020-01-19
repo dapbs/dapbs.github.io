@@ -76,6 +76,12 @@ Alberto Cairo [Website](http://albertocairo.com/) [Twitter](https://twitter.com/
 ## /trade/presentations
 Nancy Duarte [Website](https://www.duarte.com/) [Twitter](https://twitter.com/nancyduarte) [Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K) [TED](https://www.ted.com/speakers/nancy_duarte)
 
+## /trade/mooc
+### University of Texas Knight Center for Journalism in the Americas
+_The Knight Center has offered online courses since 2003 and began to expand its distance learning program with the launch of its first MOOC in October 2012. The MOOCs are free, and participants can receive a certificate of completion for a nominal fee. Our courses cover a variety of topics, including digital journalism techniques, fact-checking and verification, computer-assisted reporting, data visualization, and more.  The Knight Center offers online courses in English, Spanish and Portuguese._
+
+https://journalismcourses.org/
+
 # 
 
 _Inspired by Tom Critchlow's [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)_
