@@ -99,6 +99,8 @@ _Andy Kirk is a freelance data visualisation specialist based in Yorkshire, UK. 
 _The Data Visualization Society aims to collect and establish best practices, fostering a community that supports members as they grow and develop data visualization skills. As data grows more central to our personal and professional lives, the practice of data visualization becomes ever more important._
   * [Nightingale - The Journal of the Data Visualization Society](https://medium.com/nightingale)
 
+* [Financial Times Chart Doctor](https://www.ft.com/chart-doctor)
+
 ## /trade/presentations
 Nancy Duarte [[Website](https://www.duarte.com/)] [[Twitter](https://twitter.com/nancyduarte)] [[Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K)] [[TED](https://www.ted.com/speakers/nancy_duarte)]
 
