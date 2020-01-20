@@ -28,6 +28,7 @@ Jaron Lanier; March 4, 2014; Simon & Schuster
 
 # /podcasts
 [Spark with Nora Young](https://www.cbc.ca/radio/spark)
+[Capitalisn’t](https://www.capitalisnt.com/)
 
 # /twitter
 ## Lists
