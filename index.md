@@ -93,6 +93,7 @@ https://observablehq.com/
 - Andy Kirk [[Website](http://visualisingdata.com)]
 _Andy Kirk is a freelance data visualisation specialist based in Yorkshire, UK. He is a visualisation design consultant, training provider, teacher, author, speaker, researcher and editor of the award-winning website visualisingdata.com._
 - Jer Thorp [[Website](https://www.jerthorp.com/)]
+- Jessica Hullman [[Website](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/hullman-jessica.html)] [[Twitter](https://twitter/com/JessicaHullman) _Assistant Professor Northwestern University in Computer Science, Journalism.  Data visualization, designing for uncertainty, Bayesian cognition._
 
 ### Organizations
 * [The Data Visualization Society](https://www.datavisualizationsociety.com/)
