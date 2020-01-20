@@ -108,6 +108,12 @@ _The Data Visualization Society aims to collect and establish best practices, fo
 
 * [Google News Initiative](https://newsinitiative.withgoogle.com/training/course/data-journalism)
 
+### Conferences
+[Eyeo Festival](http://eyeofestival.com/)
+
+### Awards
+[KANTAR Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
+
 ## /trade/presentations
 Nancy Duarte [[Website](https://www.duarte.com/)] [[Twitter](https://twitter.com/nancyduarte)] [[Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K)] [[TED](https://www.ted.com/speakers/nancy_duarte)]
 
