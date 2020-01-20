@@ -26,6 +26,9 @@ Jaron Lanier; March 4, 2014; Simon & Schuster
 
 [Roll your own search engine on the Google Chrome omnibox](https://support.google.com/chrome/answer/95426?co=GENIE.Platform%3DDesktop&hl=en)
 
+# /design
+[Red Dot Design Award](https://www.red-dot.org/)
+
 # /podcasts
 [Spark with Nora Young](https://www.cbc.ca/radio/spark)
 [Capitalisn’t](https://www.capitalisnt.com/)
@@ -84,8 +87,13 @@ https://observablehq.com/
 ## /trade/data visualization
 Edward Tufte [Website](https://www.edwardtufte.com/tufte/) [Twitter](https://twitter.com/EdwardTufte) [Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
 
-Alberto Cairo [[Website](http://albertocairo.com/)] [[Twitter](https://twitter.com/AlbertoCairo)] [[Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)
-]
+Alberto Cairo [[Website](http://albertocairo.com/)] [[Twitter](https://twitter.com/AlbertoCairo)] [[Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)]]
+
+Pedro Cruz [[Website](https://pmcruz.com/)] [[Twitter](https://twitter.com/pmcruz)]
+
+Andy Kirk [[Website](http://visualisingdata.com)]
+_Andy Kirk is a freelance data visualisation specialist based in Yorkshire, UK. He is a visualisation design consultant, training provider, teacher, author, speaker, researcher and editor of the award-winning website visualisingdata.com._
+
 ## /trade/presentations
 Nancy Duarte [[Website](https://www.duarte.com/)] [[Twitter](https://twitter.com/nancyduarte)] [[Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K)] [[TED](https://www.ted.com/speakers/nancy_duarte)]
 
