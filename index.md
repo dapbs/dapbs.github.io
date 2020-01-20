@@ -29,6 +29,15 @@ Jaron Lanier; March 4, 2014; Simon & Schuster
 # /podcasts
 [Spark with Nora Young](https://www.cbc.ca/radio/spark)
 
+# /twitter
+## Lists
+- [GIS](https://twitter.com/dapbshq/lists/gis)
+- [Saint Louis](https://twitter.com/dapbshq/lists/saint-louis)
+- [Portugal](https://twitter.com/dapbshq/lists/portugal)
+- [Microsoft Data Stack](https://twitter.com/dapbshq/lists/microsoft-data-stack)
+- [Virtual Reality (VR)](https://twitter.com/dapbshq/lists/virtual-reality-vr)
+- [Artificial Intelligence (AI)](https://twitter.com/dapbshq/lists/artificial-intelligence)
+
 # /trade
 [Hacker News](https://news.ycombinator.com/) To understand Hacker News, read [this New Yorker piece](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news).
 
