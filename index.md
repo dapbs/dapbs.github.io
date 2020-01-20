@@ -85,14 +85,19 @@ https://observablehq.com/
 [Mode Analytics Dispatch](https://mode.com/analytics-dispatch/)
 
 ## /trade/data visualization
-Edward Tufte [Website](https://www.edwardtufte.com/tufte/) [Twitter](https://twitter.com/EdwardTufte) [Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
 
-Alberto Cairo [[Website](http://albertocairo.com/)] [[Twitter](https://twitter.com/AlbertoCairo)] [[Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)]]
-
-Pedro Cruz [[Website](https://pmcruz.com/)] [[Twitter](https://twitter.com/pmcruz)]
-
-Andy Kirk [[Website](http://visualisingdata.com)]
+### People
+- Edward Tufte [Website](https://www.edwardtufte.com/tufte/) [Twitter](https://twitter.com/EdwardTufte) [Amazon](https://www.amazon.com/Edward-R.-Tufte/e/B000APET3Y)
+- Alberto Cairo [[Website](http://albertocairo.com/)] [[Twitter](https://twitter.com/AlbertoCairo)] [[Amazon](https://www.amazon.com/Alberto-Cairo/e/B0050KJ3NK)]]
+- Pedro Cruz [[Website](https://pmcruz.com/)] [[Twitter](https://twitter.com/pmcruz)]
+- Andy Kirk [[Website](http://visualisingdata.com)]
 _Andy Kirk is a freelance data visualisation specialist based in Yorkshire, UK. He is a visualisation design consultant, training provider, teacher, author, speaker, researcher and editor of the award-winning website visualisingdata.com._
+- Jer Thorp [[Website](https://www.jerthorp.com/)]
+
+### Organizations
+- The Data Visualization Society (https://www.datavisualizationsociety.com/)
+_The Data Visualization Society aims to collect and establish best practices, fostering a community that supports members as they grow and develop data visualization skills. As data grows more central to our personal and professional lives, the practice of data visualization becomes ever more important._
+-- Nightingale - The Journal of the Data Visualization Society https://medium.com/nightingale
 
 ## /trade/presentations
 Nancy Duarte [[Website](https://www.duarte.com/)] [[Twitter](https://twitter.com/nancyduarte)] [[Amazon](https://www.amazon.com/Nancy-Duarte/e/B002BMAA0K)] [[TED](https://www.ted.com/speakers/nancy_duarte)]
