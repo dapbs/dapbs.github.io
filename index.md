@@ -128,11 +128,18 @@ https://journalismcourses.org/
 ## /trade/powerbi
 [Microsoft: Basic Concepts Tutorial](https://docs.microsoft.com/en-us/power-bi/service-basic-concepts)
 
+[Microsoft: Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
+
+[Microsoft: Webinars](https://docs.microsoft.com/en-us/power-bi/webinars)
+
 ### YouTube
 [Guy in a Cube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
 PowerBI information roundups every Monday. Technical videos focusing on the Microsoft Business Intelligence stack (including Power BI, Reporting Services and Analysis Services) every Tuesday and Wednesday.
+
 [Microsoft: Getting Started with PowerBI](https://www.youtube.com/playlist?list=PL1N57mwBHtN0tyk_tTM3t4XR5SPh4cJO1)
+
 [Microsoft: PowerBI Desktop](https://www.youtube.com/playlist?list=PL1N57mwBHtN2q1WbU5O29rrn_A0lkVv9p)
+
 [Analyzing and Visualizing Data with Power BI (Video Lectures)](https://www.youtube.com/playlist?list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP)
 
 ### MOOCs
