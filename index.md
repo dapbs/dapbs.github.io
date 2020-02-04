@@ -125,6 +125,18 @@ https://journalismcourses.org/
 
 - [Data Visualization for Storytelling and Discovery with Alberto Cairo](https://journalismcourses.org/data-viz-course-material.html)
 
-# 
+## /trade/powerbi
+[Microsoft: Basic Concepts Tutorial](https://docs.microsoft.com/en-us/power-bi/service-basic-concepts)
+
+### YouTube
+[Guy in a Cube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
+PowerBI information roundups every Monday. Technical videos focusing on the Microsoft Business Intelligence stack (including Power BI, Reporting Services and Analysis Services) every Tuesday and Wednesday.
+[Microsoft: Getting Started with PowerBI](https://www.youtube.com/playlist?list=PL1N57mwBHtN0tyk_tTM3t4XR5SPh4cJO1)
+[Microsoft: PowerBI Desktop](https://www.youtube.com/playlist?list=PL1N57mwBHtN2q1WbU5O29rrn_A0lkVv9p)
+[Analyzing and Visualizing Data with Power BI (Video Lectures)](https://www.youtube.com/playlist?list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP)
+
+### MOOCs
+[Analyzing and Visualizing Data with Power BI](https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-2)
+Learn Power BI, a powerful cloud-based service that helps data scientists visualize and share insights from their data.
 
 _Inspired by Tom Critchlow's [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)_
