@@ -125,6 +125,22 @@ https://journalismcourses.org/
 
 - [Data Visualization for Storytelling and Discovery with Alberto Cairo](https://journalismcourses.org/data-viz-course-material.html)
 
+## /trade/test automation
+[Testing Adobe Analytics with Python](https://medium.com/@johndavidsimmons/testing-adobe-analytics-with-python-368752a39cc2)
+[Python for Adobe Analytics audit and regression testing](https://community.digitalanalyticsassociation.org/blogs/sreekanth-r/2018/04/04/python-for-adobe-analytics-audit-and-regression-te)
+[Browser Stack](https://www.browserstack.com/)
+[Appium](http://appium.io/)
+[Sauce Labs](https://saucelabs.com/)
+[Lambda Test](https://www.lambdatest.com/)
+[Smart Bear](https://smartbear.com/)
+[Python Testing 101 Pytest BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
+[Andrew Knight (Automation Panda) Youtube](https://www.youtube.com/results?search_query=Andrew+Knight+automation+python)
+[Hands-On UI Testing With Python](https://www.youtube.com/watch?v=bGBNcgdDYzM)
+[Test Automation University](https://testautomationu.applitools.com/)
+[(Automation Panda) Test Automation Tutorial](https://blog.testproject.io/2019/07/16/test-automation-goals-with-web-ui-testing/)
+[Web Analytics Unit (WAUnit)](https://github.com/blast-analytics-marketing/WAUnit)
+[Youtube video WAUnit Overview](https://www.youtube.com/watch?v=sWsPey1qBi0)
+
 ## /trade/powerbi
 [Microsoft: Basic Concepts Tutorial](https://docs.microsoft.com/en-us/power-bi/service-basic-concepts)
 
