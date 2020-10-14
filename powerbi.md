@@ -29,6 +29,12 @@ If possible, use short labels (January > Jan) to increase readibility.
 * Look out for too many colors within a dashboard
   * Tree maps and stacked column chars usually problematic > use when there are few categories or replace with bar charts
 * Same color represents different things
+* Neutral/desaturated colors (e.g. dark gray) for general comparisons; saturated colors (e.g. red/green) for variances.
+
+5) Not showing variances
+* Displayed actual and variances next to eachother - same visual
+
+6) Confusing page layouts
 
 
 Questions?
