@@ -152,6 +152,8 @@ https://journalismcourses.org/
 
 ## /trade/clv
 [Calculating CLV Stephen Oates](https://srepho.github.io/CLV/CLV)
+[Lifetimes Part 1: Customer Analytics](http://kpei.me/blog/?p=659)
+[Estimating Customer Lifetime Values/Estimating Future Spend] (https://databricks.com/blog/2020/06/16/on-demand-virtual-session-customer-lifetime-value.html)
 
 ### YouTube
 [Guy in a Cube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
