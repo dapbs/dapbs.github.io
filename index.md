@@ -150,6 +150,9 @@ https://journalismcourses.org/
 
 [Microsoft Learn: Power BI](https://docs.microsoft.com/en-us/learn/browse/?term=power%20bi)
 
+## /trade/clv
+[Calculating CLV Stephen Oates](https://srepho.github.io/CLV/CLV)
+
 ### YouTube
 [Guy in a Cube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
 PowerBI information roundups every Monday. Technical videos focusing on the Microsoft Business Intelligence stack (including Power BI, Reporting Services and Analysis Services) every Tuesday and Wednesday.
