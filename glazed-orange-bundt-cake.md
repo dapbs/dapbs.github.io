@@ -1,21 +1,21 @@
 # Glazed Orange Bundt Cake
 
 ## Cake
-3 cups (315g) sifted cake flour* (spooned & leveled)
-1/2 teaspoon salt
-1 teaspoon baking powder
-1/2 teaspoon baking soda
-1 cup olive oil
-1 cup granulated sugar (already reduced the original amount!)
-4 large eggs, at room temperature
-1 teaspoon pure vanilla extract
-zest from 2 oranges (about 2 packed Tablespoons)
-1/2 cup (120ml) fresh orange juice
+- 3 cups (315g) sifted cake flour* (spooned & leveled)
+- 1/2 teaspoon salt
+- 1 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1 cup olive oil
+- 1 cup granulated sugar (already reduced the original amount!)
+- 4 large eggs, at room temperature
+- 1 teaspoon pure vanilla extract
+- zest from 2 oranges (about 2 packed Tablespoons)
+- 1/2 cup (120ml) fresh orange juice
 
 ## Easy Orange Glaze
-1 and 1/4 cups (150g) sifted confectioners’ sugar
-2–3 Tablespoons (30-45ml) fresh orange juice
-1/2 teaspoon pure vanilla extract
+- 1 and 1/4 cups (150g) sifted confectioners’ sugar
+- 2–3 Tablespoons (30-45ml) fresh orange juice
+- 1/2 teaspoon pure vanilla extract
 
 ## Instructions
 1. Lower the oven rack to the lower third position and preheat the oven to 350°F (177°C). Spray the inside of a 10-inch Bundt pan with nonstick spray or grease thoroughly with butter. Set aside.
